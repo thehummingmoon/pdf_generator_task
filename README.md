@@ -3,9 +3,11 @@
 <img width="511" alt="image" src="https://github.com/thehummingmoon/pdf_generator_task/assets/100294989/8cb37aea-9da6-4a31-9d60-b62afefd40cb">
 
 **BTECH**
+
 <img width="503" alt="image" src="https://github.com/thehummingmoon/pdf_generator_task/assets/100294989/a30d8b25-7ef9-4c1a-8bc2-0eeb99f7fb6f">
 
 **MTECH**
+
 <img width="534" alt="image" src="https://github.com/thehummingmoon/pdf_generator_task/assets/100294989/5fe1bcfe-37c8-4719-874a-05397c57aaef">
 
 
